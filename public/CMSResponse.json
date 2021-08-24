@@ -1,0 +1,61 @@
+{
+   "cms_type": {
+      "blog": {
+         "id": 1,
+         "app_name": "blog",
+         "fields": {
+            "selects": [
+               {
+                  "id": 1,
+                  "label": "Select Blog",
+                  "name": "selectedBlog",
+                  "options": [
+                     "blog1",
+                     "blog2",
+                     "blog3"
+                  ]
+               }
+            ],
+            "inputs": [
+               {
+                  "id": 1,
+                  "label": "Category",
+                  "name": "category"
+               },
+               {
+                  "id": 2,
+                  "label": "Title",
+                  "name": "title"
+               },
+               {
+                  "id": 3,
+                  "label": "Date",
+                  "name": "date"
+               }
+            ],
+            "textareas": null
+         }
+      },
+      "about": {
+         "id": 2,
+         "app_name": "about",
+         "fields": {
+            "selects": null,
+            "inputs": [
+               {
+                  "id": 2,
+                  "label": "Title",
+                  "name": "title"
+               }
+            ],
+            "textareas": [
+               {
+                  "id": 1,
+                  "label": "Description",
+                  "name": "description"
+               }
+            ]
+         }
+      }
+   }
+}

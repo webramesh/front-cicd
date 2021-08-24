@@ -1,0 +1,8 @@
+{
+   "showDateCheckbox": 1,
+   "showTitleCheckbox": 1,
+   "showCategoryCheckbox": 1,
+   "titleInput": 1,
+   "dateInput": 1,
+   "gjsHtml": "<section data-gjs-type='default' draggable='true' data-show='true' data-app-name='newSection' class='text-center info-section p-5' style='color:blue;text-align:center;margin-top:50px;'><div><button class='btn btn-danger addNewSection'>Add section</button></div> <h4>Text add dynamically</h4> </section>"
+}

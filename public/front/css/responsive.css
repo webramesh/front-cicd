@@ -1,0 +1,31 @@
+
+
+@media(max-width: 768px){
+.has-pdding-right{padding-right: 15px;}
+#box-list .card-title {font-size: 20px;}
+.or{display: none;}
+#box-list .card{width: 100%;}
+.btnwrapper {padding: 20px 15px 0 15px;}
+
+
+
+}
+
+
+@media(max-width: 767px){
+	#login {
+    padding: 0;
+}
+.social-login-btn{margin-right: 0; margin-bottom: 10px;}
+.category-info{padding-top: 0; padding-bottom: 20px;}
+.header-logo{text-align: center; margin-bottom: 15px;}
+.header-right{display: none;}
+.has-pdding-right{padding-right: 15px;}
+.thumbnail img{width: 200px;}
+#box-list{margin-bottom: 20px;}
+.btnwrapper a{color: #000; margin-right: 10px;}
+.intro-content span{font-size: 18px;}
+.intro-content h2 { font-size: 37px;}
+#box-list .card{width: 100%;}
+
+}

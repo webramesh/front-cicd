@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "name": "1 Column",
+            "category": "Elements",
+            "label": "1 Column",
+            "content": "<div class=\"my-block\">This is a simple block</div>",
+            "attributes": {
+                "title": "1 Column"
+            }
+        },
+        {
+            "name": "Text",
+            "category": "Elements",
+            "label": "Text",
+            "content": "<div class=\"my-block\">This is a simple block</div>",
+            "attributes": {
+                "title": "Text"
+            }
+        },
+        {
+            "name": "Table",
+            "category": "Elements",
+            "label": "Table",
+            "content": "<div class=\"my-block\">This is a simple block</div>",
+            "attributes": {
+                "title": "Table"
+            }
+        },
+        {
+            "name": "Image",
+            "category": "Elements",
+            "label": "Image",
+            "content": "<div class=\"my-block\">This is a simple block</div>",
+            "attributes": {
+                "title": "Image"
+            }
+        },
+        {
+            "name": "Blog",
+            "category": "APPS",
+            "label": "Blog",
+            "content": "<div class=\"my-block\">This is a simple block</div>",
+            "attributes": {
+                "title": "Blog"
+            }
+        },
+        {
+            "name": "Services",
+            "category": "APPS",
+            "label": "Services",
+            "content": "<div class=\"my-block\">This is a simple block</div>",
+            "attributes": {
+                "title": "Services"
+            }
+        },
+        {
+            "name": "Story",
+            "category": "APPS",
+            "label": "Story",
+            "content": "<div class=\"my-block\">This is a simple block</div>",
+            "attributes": {
+                "title": "Story"
+            }
+        }
+    ]
+}
